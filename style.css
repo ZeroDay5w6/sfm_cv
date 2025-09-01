@@ -328,7 +328,7 @@ main {
 
 .image_pub {
     width: 100%;
-    height: 150px;
+    height: 200px;
     margin: 0 0 20px 0;
     border: 2px solid black;
 
@@ -498,3 +498,4 @@ footer {
     }
 
 }
+
