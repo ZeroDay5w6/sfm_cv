@@ -344,7 +344,7 @@ main {
     color: inherit;
     display: block;
     transition: transform 0.3s ease;
-    width: 80%;
+    width: 100%;
 }
 
 
@@ -496,4 +496,5 @@ footer {
         font-size: 1rem;
         padding: 0 1.5rem;
     }
+
 }
